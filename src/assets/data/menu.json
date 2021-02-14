@@ -1,0 +1,22 @@
+[
+  {
+    "icon": "videocam-outline",
+    "name": "Inicio",
+    "redirectTo": "/pagina-inicio"
+  },
+  {
+    "icon": "flame-outline",
+    "name": "Acción",
+    "redirectTo": "/categorias/Acción"
+  },
+  {
+    "icon": "skull-outline",
+    "name": "Terror",
+    "redirectTo": "/categorias/Terror"
+  },
+  {
+    "icon": "happy-outline",
+    "name": "Comedia",
+    "redirectTo": "/categorias/Comedia"
+  }
+]
